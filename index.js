@@ -19,6 +19,7 @@ const allowedOrigins = [
   "http://localhost:3001",
   "http://localhost:3000",
   "http://localhost:4000",
+  "http://192.168.1.105:3000",
   "http://192.168.1.104:3000",
   "http://192.168.1.104:3000/login",
   "https://angler-360-frontend-dashboard.vercel.app/",
